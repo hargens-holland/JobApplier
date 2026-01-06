@@ -1,0 +1,78 @@
+Data Scientist
+Posted 3 days ago∙Apply by February 2, 2026 at 2:59 AM
+
+Save
+Share
+
+Apply
+
+
+Save
+
+Apply
+At a glance
+$9K per month or more
+Medical, dental, and vision coverage plus paid time off
+Onsite, based in Palo Alto, CA
+Work in person from the location
+Job
+Full-time
+US work authorization required
+Eligible for visa sponsorship and open to candidates with OPT
+What You'll Work On
+
+At Reinforce Labs, we partner directly with customers to build AI systems that enhance the safety and reliability of their complex, high-impact applications. In this role, you'll engage directly with clients to deeply understand their specific challenges, conduct thorough data analysis, and deliver trust and safety AI solutions. You'll implement advanced machine learning techniques including LLMs, reinforcement learning, and deep learning - often translating cutting-edge research papers into practical applications.
+
+This position combines technical depth with significant client-facing responsibilities. You'll tackle high-stakes problems with unclear solutions but real-world consequences. Key responsibilities include:
+
+Design industry leading benchmarks, leaderboards to help build clear view of AI safety, security and compliance landscape
+Develop customer facing reporting and analytics to facilitate communication of safety standards
+Be the bridge between business teams and tech teams to communicate core internal metrics, results and expectations
+Maintain internal business dashboards to analyze impacts and make data-driven decisions
+Our success is measured by real-world impact. You'll develop and ship solutions that protect people and platforms at scale while building trusted relationships with the clients who depend on our technology.
+
+Must-Have
+
+Apply advanced statistics techniques to build metrics, data insights processing and analytics
+Hands-on experience in designing experimentation frameworks 
+Translate data into stories with visualizations to help make data-driven decisions
+Experience in BI and analytics tooling
+Apply ETL skills to build automated data and analytics pipelines
+Proficiency in Python, SQL and data manipulation skills
+Nice-to-Have
+
+Experience partnering with trust & safety leads and background in trust & safety, moderation, AI safety, or security-focused ML to deliver state-of-the-art solutions [a big plus]
+An advanced degree in computer science or a related field
+LLM and agentic framework experience
+Experience in early-stage startups
+Experience in customer-facing AI technical solutions
+Who We Are
+
+Reinforce Labs is a small team with a clear mission: to use AI to make critical systems safer, not just smarter.
+
+We value:
+
+Willingness to learn new things, take on diverse tasks, and challenge yourself
+Hands-on technical excellence
+Ownership
+Ability to handle ambiguity
+Fast, results-driven delivery
+Less
+What they’re looking for
+You do not match any qualifications.
+Masters
+Doctorate
+Business Administration & Management major
+Computer Science major
+Information Systems Management major
+Cyber Security major
+Matching is based on your profile.
+Update profile.
+What this job offers
+$9K per month or more
+Medical, dental, and vision coverage
+Bonus
+Equity package
+Paid time off
+Paid sick leave
+Parental leave

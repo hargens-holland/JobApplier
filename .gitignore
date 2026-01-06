@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Hugging Face model cache (DO NOT COMMIT MODELS!)
+.cache/
+~/.cache/huggingface/
+**/huggingface/
+models/
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Model cache directory (if using local cache)
+.cache/
+*.model
+*.tokenizer
+
+# Data files (optional - uncomment if you don't want to commit data)
+# data/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+

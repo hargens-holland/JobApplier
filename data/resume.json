@@ -1,0 +1,97 @@
+{
+    "name": "Holland S. Hargens",
+    "contact": {
+        "email": "hshargens@verizon.net",
+        "phone": "617-735-0352",
+        "linkedin": "Holland Hargens",
+        "github": "https://github.com/hargens-holland"
+    },
+    "summary": "Computer Engineering student with strong experience in machine learning, embedded systems, and data analysis. Skilled in MATLAB, Python, C++, and building data-driven and embedded software systems.",
+    "education": {
+        "school": "University of Wisconsin–Madison",
+        "degree": "Bachelor of Science in Computer Engineering",
+        "graduation": "May 2026",
+        "gpa": "3.53/4.00",
+        "honors": "Dean's Honor List: Fall 2022 – Fall 2024",
+        "coursework": [
+            "Embedded Systems",
+            "Computer Architecture",
+            "Neural Networks",
+            "Artificial Intelligence",
+            "Matrix Methods for Machine Learning",
+            "Statistics for Random Signals"
+        ]
+    },
+    "skills": [
+        "Python",
+        "C",
+        "C++",
+        "Java",
+        "MATLAB",
+        "Simulink",
+        "Embedded Systems",
+        "Machine Learning",
+        "Signal Processing",
+        "SQL",
+        "AWS",
+        "Raspberry Pi",
+        "ARM Cortex",
+        "Verilog"
+    ],
+    "experience": [
+        {
+            "company": "Veridis Technologies",
+            "role": "ML and Software Engineering Intern",
+            "location": "Amsterdam, Netherlands",
+            "bullets": [
+                "Developed preprocessing pipelines for polymer sensor data using Python",
+                "Implemented baseline regression and classification models for real-world datasets",
+                "Conducted statistical analysis and visualization of high-dimensional sensor data",
+                "Collaborated with a cross-functional engineering team on scalable machine learning research"
+            ]
+        },
+        {
+            "company": "Outlier AI",
+            "role": "AI Solutions Analyst",
+            "location": "Remote",
+            "bullets": [
+                "Evaluated AI model outputs across Python, Java, and algorithmic reasoning tasks",
+                "Designed structured feedback frameworks to improve model correctness and efficiency",
+                "Worked on natural language reasoning and algorithm design evaluation"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "PSOC6 Blackjack Game",
+            "domain": "Embedded Systems",
+            "bullets": [
+                "Developed firmware in C for the PSOC6 microcontroller implementing real-time game logic",
+                "Integrated hardware peripherals using UART and I2C communication protocols",
+                "Optimized system performance through timing analysis and debugging"
+            ]
+        },
+        {
+            "name": "Personal Manager App with AI Assistant",
+            "domain": "Backend and NLP",
+            "bullets": [
+                "Built a modular web application for managing tasks, workouts, and schedules",
+                "Designed backend services using Next.js, Supabase, and Python-based agents",
+                "Integrated natural language interfaces for AI-driven task interaction"
+            ]
+        },
+        {
+            "name": "AI-Powered Song Recommendation System",
+            "domain": "Backend and Machine Learning",
+            "bullets": [
+                "Built backend services using Python, Flask, and SQLite",
+                "Integrated external APIs for real-time music metadata",
+                "Implemented recommendation models using Scikit-learn and Pandas"
+            ]
+        }
+    ],
+    "leadership": [
+        "IEEE UW–Madison Student Organization Member",
+        "Boy Scouts of America Eagle Scout"
+    ]
+}
